@@ -1,6 +1,6 @@
 # Operating-Systems
 
-During this course we worked on the following projects
+During this course we worked on the following projects:
 
   -Implemented a thread safe hash table using the mutex and spin locks
   
