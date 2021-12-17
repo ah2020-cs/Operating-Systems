@@ -9,3 +9,5 @@ During this course we worked on the following projects:
   -Created a lottery scheduling program that allows processes to receive a proportional share of the CPU
   
   -Recreated the uniq command in xv6
+  
+  -Final Project: optimize disk I/O and evaluate the effects of caches and the cost of system calls
